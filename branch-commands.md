@@ -10,3 +10,7 @@ git branch _list your branches_
 git branch -a _list all branches (local and remote)_
 
 git branch -d <branchname> _delete a branch_
+
+## Remember
+
+When you create a branch it will already contain all the files of the main branche
